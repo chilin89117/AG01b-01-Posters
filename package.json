@@ -1,0 +1,21 @@
+{
+  "name": "ag01b-01-posters",
+  "version": "1.0.0",
+  "description": "Vue.js Poster Shop",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon ./server.js --ignore node_modules/ -e js,html,css",
+    "lint": "eslint server.js public/script.js"
+  },
+  "author": "Chi Lin <chilin89117@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "scrollmonitor": "^1.2.4",
+    "vue": "^2.6.10",
+    "vue-resource": "^1.5.1"
+  },
+  "devDependencies": {
+    "reload": "^2.4.0"
+  }
+}
