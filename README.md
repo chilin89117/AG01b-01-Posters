@@ -1,5 +1,7 @@
 # AG01b-01-Posters
 
+![Home Page](../assets/a.png?raw=true)
+
 ### Packages
 - `express`
 - `scrollmonitor`
